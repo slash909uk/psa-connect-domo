@@ -1,4 +1,5 @@
 # psa-connect-domo
+ARCHIVED repo moved to: https://codeberg.org/slash909uk/psa-connect-domo
 PHP script to pull battery SoC data from PSA Car Connect API and push into Domoticz
 
 API flow scraped from the excellent work done by Florian B and many project contributors here: https://github.com/flobz/psa_car_controller
